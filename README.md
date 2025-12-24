@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Quantum-Computing-Portfolio</title>
-</head>
+ </head>
 <body>
 
 <h1>Quantum-Computing-Portfolio</h1>
