@@ -1,1 +1,2 @@
 
+pip install qiskit matplotlib
