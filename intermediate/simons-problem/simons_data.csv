@@ -1,0 +1,6 @@
+n,s,classical_avg_queries,quantum_queries_ideal,quantum_success_ideal,quantum_queries_noisy,quantum_success_noisy
+2,11,3.2,2,1,2,0.95
+3,111,7.1,3,1,3,0.88
+4,1111,15.6,4,1,4,0.75
+5,11111,31.9,5,1,5,0.62
+6,111111,63.8,6,1,6,0.5
